@@ -1,9 +1,8 @@
----
+
 BY:
   Prakrititz Borah
   Unnath Chittimalla
   Chaitya Shah
----
 # Introduction {#introduction}
 
 The IAS simulator, constructed in Python, meticulously adheres to the
