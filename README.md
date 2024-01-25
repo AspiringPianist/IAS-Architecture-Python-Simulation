@@ -1,23 +1,8 @@
 ---
-abstract: |
-  Our Python-based IAS simulator, inspired by John von Neumann's
-  Institute for Advanced Study architecture, allows users to write
-  assembly code, processed by an assembler and compiler for execution on
-  the simulated IAS processor. As a practical demonstration, we've
-  integrated an array sorting program. Users can input unsorted arrays
-  through the compiler to the memory and by running the assembly code,
-  and the simulator showcases the sorting process, illustrating the
-  practical application of the IAS architecture in solving computational
-  problems. This addition enhances the educational experience, providing
-  a hands-on example of algorithmic implementation within the simulated
-  environment
-date: 26 January 2024
-title: |
-  **IAS Architecture Simulation**\
-  Course Name: EG 212, Computer Architecture - Processor Design\
-  Prakrititz Borah IMT2023547\
-  Unnath Chittimalla IMT2023620\
-  Chaitya Shah IMT2023055
+BY:
+  Prakrititz Borah
+  Unnath Chittimalla
+  Chaitya Shah
 ---
 # Introduction {#introduction}
 
