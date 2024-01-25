@@ -1,0 +1,3841 @@
+PC has value 1
+MAR has address 0
+Memory initially is:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MBR has instruction [0, 0, 0, 0] and data 0
+Initialized ALU
+Initially, AC has value 69 in it.
+Contents of IBR are [0, 0]
+IR has opcode 0
+Opcode in CTRL is 0
+Wrote 68983193600 to memory address 1
+Wrote 68984242176 to memory address 2
+Wrote 17442017532 to memory address 3
+Wrote 13152358655 to memory address 4
+Wrote 4561318143 to memory address 5
+Wrote 77577060352 to memory address 6
+Wrote 30073184267 to memory address 7
+Wrote 137706356991 to memory address 8
+Wrote 8856285439 to memory address 9
+Wrote 142001831936 to memory address 10
+Wrote 17444114686 to memory address 11
+Wrote 13149159677 to memory address 12
+Wrote 8853135612 to memory address 13
+Wrote 30068441088 to memory address 14
+Wrote 17443066110 to memory address 15
+Wrote 13148111101 to memory address 16
+Wrote 8853651456 to memory address 17
+Wrote 30067392512 to memory address 18
+Wrote 549756338176 to memory address 19
+Wrote 3 to memory address 200
+Wrote 1 to memory address 201
+Wrote 2 to memory address 202
+Wrote 7 to memory address 203
+Wrote 9 to memory address 204
+Wrote 4 to memory address 205
+Wrote 200 to memory address 250
+Wrote 0 to memory address 251
+Wrote 0 to memory address 252
+Wrote 4 to memory address 253
+Wrote 1 to memory address 254
+Wrote 1 to memory address 255
+After loading code,  [0, 68983193600, 68984242176, 17442017532, 13152358655, 4561318143, 77577060352, 30073184267, 137706356991, 8856285439, 142001831936, 17444114686, 13149159677, 8853135612, 30068441088, 17443066110, 13148111101, 8853651456, 30067392512, 549756338176, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 2, 7, 9, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 0, 0, 4, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+lines =  19
+We are in PC =  1
+IBR has [0, 0]
+Updated MAR address to 1
+Fetched instructions [16, 251, 128, 0] from memory location 1
+Updated MBR to [16, 251, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 16
+Updated MAR address to 251
+Opcode is 16
+Setting Zero
+Set address 251 to zero
+Wrote 0 to memory address 251
+We are in PC =  1
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 2
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  2
+IBR has [0, 0]
+Updated MAR address to 2
+Fetched instructions [16, 252, 128, 0] from memory location 2
+Updated MBR to [16, 252, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 16
+Updated MAR address to 252
+Opcode is 16
+Setting Zero
+Set address 252 to zero
+Wrote 0 to memory address 252
+We are in PC =  2
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 3
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 0 from memory location 252
+Updated MBR to None and MBR"s data to 0
+Added 0 to the accumulator. Now, the accumulator has value 200 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 200
+Loaded AC value to MBR.
+Wrote 200 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 200 from memory location 255
+Fetched 3 from memory location 200
+Updated MBR to None and MBR"s data to 3
+Set $1 to 3
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 201 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 201
+Loaded AC value to MBR.
+Wrote 201 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 201 from memory location 255
+Fetched 1 from memory location 201
+Updated MBR to None and MBR"s data to 1
+Set $2 to 1
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Triggering flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+Called Jump Plus
+Set PC to 8
+After clearing, contents of IBR are [0, 0]
+Jumping to 8
+We are in PC =  8
+IBR has [0, 0]
+Updated MAR address to 8
+Fetched instructions [32, 255, 4, 255] from memory location 8
+Updated MBR to [32, 255, 4, 255] and MBR"s data to 0
+Updated IBR to [4, 255]
+Updated IR to 32
+Updated MAR address to 255
+Opcode is 32
+Set MBR data to 3
+Fetched 201 from memory location 255
+Wrote 3 to memory address 201
+We are in PC =  8
+IBR has [4, 255]
+Updated IR to 4
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 9
+Opcode is 4
+Calling Load
+Fetched 201 from memory location 255
+Updated MBR to None and MBR"s data to 201
+Updated AC value to 201 .
+We are in PC =  9
+IBR has [0, 0]
+Updated MAR address to 9
+Fetched instructions [2, 254, 3, 255] from memory location 9
+Updated MBR to [2, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 2
+Updated MAR address to 254
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value 200 in it
+We are in PC =  9
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 10
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 200
+Loaded AC value to MBR.
+Wrote 200 to memory address 255
+We are in PC =  10
+IBR has [0, 0]
+Updated MAR address to 10
+Fetched instructions [33, 255, 128, 0] from memory location 10
+Updated MBR to [33, 255, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 33
+Updated MAR address to 255
+Opcode is 33
+Set MBR data to 1
+Fetched 200 from memory location 255
+Wrote 1 to memory address 200
+We are in PC =  10
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 11
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 0 from memory location 252
+Updated MBR to None and MBR"s data to 0
+Updated AC value to 0 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 1 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 1
+Loaded AC value to MBR.
+Wrote 1 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 0 from memory location 251
+Updated MBR to None and MBR"s data to 0
+Subtracted 0 from the accumulator. Now, the accumulator has value 4 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 252
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value 3 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+Called Jump Plus
+Set PC to 3
+After clearing, contents of IBR are [0, 0]
+Jumping to 3
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 252
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 201 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 201
+Loaded AC value to MBR.
+Wrote 201 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 201 from memory location 255
+Fetched 3 from memory location 201
+Updated MBR to None and MBR"s data to 3
+Set $1 to 3
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 202 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 202
+Loaded AC value to MBR.
+Wrote 202 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 202 from memory location 255
+Fetched 2 from memory location 202
+Updated MBR to None and MBR"s data to 2
+Set $2 to 2
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Triggering flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+Called Jump Plus
+Set PC to 8
+After clearing, contents of IBR are [0, 0]
+Jumping to 8
+We are in PC =  8
+IBR has [0, 0]
+Updated MAR address to 8
+Fetched instructions [32, 255, 4, 255] from memory location 8
+Updated MBR to [32, 255, 4, 255] and MBR"s data to 0
+Updated IBR to [4, 255]
+Updated IR to 32
+Updated MAR address to 255
+Opcode is 32
+Set MBR data to 3
+Fetched 202 from memory location 255
+Wrote 3 to memory address 202
+We are in PC =  8
+IBR has [4, 255]
+Updated IR to 4
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 9
+Opcode is 4
+Calling Load
+Fetched 202 from memory location 255
+Updated MBR to None and MBR"s data to 202
+Updated AC value to 202 .
+We are in PC =  9
+IBR has [0, 0]
+Updated MAR address to 9
+Fetched instructions [2, 254, 3, 255] from memory location 9
+Updated MBR to [2, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 2
+Updated MAR address to 254
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value 201 in it
+We are in PC =  9
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 10
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 201
+Loaded AC value to MBR.
+Wrote 201 to memory address 255
+We are in PC =  10
+IBR has [0, 0]
+Updated MAR address to 10
+Fetched instructions [33, 255, 128, 0] from memory location 10
+Updated MBR to [33, 255, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 33
+Updated MAR address to 255
+Opcode is 33
+Set MBR data to 2
+Fetched 201 from memory location 255
+Wrote 2 to memory address 201
+We are in PC =  10
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 11
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 1 from memory location 252
+Updated MBR to None and MBR"s data to 1
+Updated AC value to 1 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 2 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 2
+Loaded AC value to MBR.
+Wrote 2 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 0 from memory location 251
+Updated MBR to None and MBR"s data to 0
+Subtracted 0 from the accumulator. Now, the accumulator has value 4 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 2 from memory location 252
+Updated MBR to None and MBR"s data to 2
+Subtracted 2 from the accumulator. Now, the accumulator has value 2 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+Called Jump Plus
+Set PC to 3
+After clearing, contents of IBR are [0, 0]
+Jumping to 3
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 2 from memory location 252
+Updated MBR to None and MBR"s data to 2
+Added 2 to the accumulator. Now, the accumulator has value 202 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 202
+Loaded AC value to MBR.
+Wrote 202 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 202 from memory location 255
+Fetched 3 from memory location 202
+Updated MBR to None and MBR"s data to 3
+Set $1 to 3
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 203 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 203
+Loaded AC value to MBR.
+Wrote 203 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 203 from memory location 255
+Fetched 7 from memory location 203
+Updated MBR to None and MBR"s data to 7
+Set $2 to 7
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Didn"t trigger flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+We are in PC =  7
+IBR has [6, 11]
+Updated IR to 6
+Updated MAR address to 11
+After clearing, contents of IBR are [0, 0]
+Updated PC to 8
+Opcode is 6
+Set PC to 11
+Jumping to 11
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 2 from memory location 252
+Updated MBR to None and MBR"s data to 2
+Updated AC value to 2 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 3 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 3
+Loaded AC value to MBR.
+Wrote 3 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 0 from memory location 251
+Updated MBR to None and MBR"s data to 0
+Subtracted 0 from the accumulator. Now, the accumulator has value 4 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 3 from memory location 252
+Updated MBR to None and MBR"s data to 3
+Subtracted 3 from the accumulator. Now, the accumulator has value 1 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+Called Jump Plus
+Set PC to 3
+After clearing, contents of IBR are [0, 0]
+Jumping to 3
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 3 from memory location 252
+Updated MBR to None and MBR"s data to 3
+Added 3 to the accumulator. Now, the accumulator has value 203 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 203
+Loaded AC value to MBR.
+Wrote 203 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 203 from memory location 255
+Fetched 7 from memory location 203
+Updated MBR to None and MBR"s data to 7
+Set $1 to 7
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 204 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 204
+Loaded AC value to MBR.
+Wrote 204 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 204 from memory location 255
+Fetched 9 from memory location 204
+Updated MBR to None and MBR"s data to 9
+Set $2 to 9
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Didn"t trigger flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+We are in PC =  7
+IBR has [6, 11]
+Updated IR to 6
+Updated MAR address to 11
+After clearing, contents of IBR are [0, 0]
+Updated PC to 8
+Opcode is 6
+Set PC to 11
+Jumping to 11
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 3 from memory location 252
+Updated MBR to None and MBR"s data to 3
+Updated AC value to 3 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 4 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 4
+Loaded AC value to MBR.
+Wrote 4 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 0 from memory location 251
+Updated MBR to None and MBR"s data to 0
+Subtracted 0 from the accumulator. Now, the accumulator has value 4 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 4 from memory location 252
+Updated MBR to None and MBR"s data to 4
+Subtracted 4 from the accumulator. Now, the accumulator has value 0 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+Called Jump Plus
+Set PC to 3
+After clearing, contents of IBR are [0, 0]
+Jumping to 3
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 4 from memory location 252
+Updated MBR to None and MBR"s data to 4
+Added 4 to the accumulator. Now, the accumulator has value 204 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 204
+Loaded AC value to MBR.
+Wrote 204 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 204 from memory location 255
+Fetched 9 from memory location 204
+Updated MBR to None and MBR"s data to 9
+Set $1 to 9
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 205 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 205
+Loaded AC value to MBR.
+Wrote 205 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 205 from memory location 255
+Fetched 4 from memory location 205
+Updated MBR to None and MBR"s data to 4
+Set $2 to 4
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Triggering flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+Called Jump Plus
+Set PC to 8
+After clearing, contents of IBR are [0, 0]
+Jumping to 8
+We are in PC =  8
+IBR has [0, 0]
+Updated MAR address to 8
+Fetched instructions [32, 255, 4, 255] from memory location 8
+Updated MBR to [32, 255, 4, 255] and MBR"s data to 0
+Updated IBR to [4, 255]
+Updated IR to 32
+Updated MAR address to 255
+Opcode is 32
+Set MBR data to 9
+Fetched 205 from memory location 255
+Wrote 9 to memory address 205
+We are in PC =  8
+IBR has [4, 255]
+Updated IR to 4
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 9
+Opcode is 4
+Calling Load
+Fetched 205 from memory location 255
+Updated MBR to None and MBR"s data to 205
+Updated AC value to 205 .
+We are in PC =  9
+IBR has [0, 0]
+Updated MAR address to 9
+Fetched instructions [2, 254, 3, 255] from memory location 9
+Updated MBR to [2, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 2
+Updated MAR address to 254
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value 204 in it
+We are in PC =  9
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 10
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 204
+Loaded AC value to MBR.
+Wrote 204 to memory address 255
+We are in PC =  10
+IBR has [0, 0]
+Updated MAR address to 10
+Fetched instructions [33, 255, 128, 0] from memory location 10
+Updated MBR to [33, 255, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 33
+Updated MAR address to 255
+Opcode is 33
+Set MBR data to 4
+Fetched 204 from memory location 255
+Wrote 4 to memory address 204
+We are in PC =  10
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 11
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 252
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 5 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 5
+Loaded AC value to MBR.
+Wrote 5 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 0 from memory location 251
+Updated MBR to None and MBR"s data to 0
+Subtracted 0 from the accumulator. Now, the accumulator has value 4 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 5 from memory location 252
+Updated MBR to None and MBR"s data to 5
+Subtracted 5 from the accumulator. Now, the accumulator has value -1 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+We are in PC =  14
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 15
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  15
+IBR has [0, 0]
+Updated MAR address to 15
+Fetched instructions [4, 251, 1, 254] from memory location 15
+Updated MBR to [4, 251, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 251
+Opcode is 4
+Calling Load
+Fetched 0 from memory location 251
+Updated MBR to None and MBR"s data to 0
+Updated AC value to 0 .
+We are in PC =  15
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 16
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 1 in it.
+We are in PC =  16
+IBR has [0, 0]
+Updated MAR address to 16
+Fetched instructions [3, 251, 4, 253] from memory location 16
+Updated MBR to [3, 251, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 251
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 1
+Loaded AC value to MBR.
+Wrote 1 to memory address 251
+We are in PC =  16
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 17
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  17
+IBR has [0, 0]
+Updated MAR address to 17
+Fetched instructions [2, 251, 128, 0] from memory location 17
+Updated MBR to [2, 251, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 251
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value 3 in it
+We are in PC =  17
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 18
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  18
+IBR has [0, 0]
+Updated MAR address to 18
+Fetched instructions [7, 2, 128, 0] from memory location 18
+Updated MBR to [7, 2, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 2
+Opcode is 7
+Called Jump Plus
+Set PC to 2
+After clearing, contents of IBR are [0, 0]
+Jumping to 2
+We are in PC =  2
+IBR has [0, 0]
+Updated MAR address to 2
+Fetched instructions [16, 252, 128, 0] from memory location 2
+Updated MBR to [16, 252, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 16
+Updated MAR address to 252
+Opcode is 16
+Setting Zero
+Set address 252 to zero
+Wrote 0 to memory address 252
+We are in PC =  2
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 3
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 0 from memory location 252
+Updated MBR to None and MBR"s data to 0
+Added 0 to the accumulator. Now, the accumulator has value 200 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 200
+Loaded AC value to MBR.
+Wrote 200 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 200 from memory location 255
+Fetched 1 from memory location 200
+Updated MBR to None and MBR"s data to 1
+Set $1 to 1
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 201 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 201
+Loaded AC value to MBR.
+Wrote 201 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 201 from memory location 255
+Fetched 2 from memory location 201
+Updated MBR to None and MBR"s data to 2
+Set $2 to 2
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Didn"t trigger flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+We are in PC =  7
+IBR has [6, 11]
+Updated IR to 6
+Updated MAR address to 11
+After clearing, contents of IBR are [0, 0]
+Updated PC to 8
+Opcode is 6
+Set PC to 11
+Jumping to 11
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 0 from memory location 252
+Updated MBR to None and MBR"s data to 0
+Updated AC value to 0 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 1 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 1
+Loaded AC value to MBR.
+Wrote 1 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 251
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value 3 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 252
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value 2 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+Called Jump Plus
+Set PC to 3
+After clearing, contents of IBR are [0, 0]
+Jumping to 3
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 252
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 201 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 201
+Loaded AC value to MBR.
+Wrote 201 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 201 from memory location 255
+Fetched 2 from memory location 201
+Updated MBR to None and MBR"s data to 2
+Set $1 to 2
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 202 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 202
+Loaded AC value to MBR.
+Wrote 202 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 202 from memory location 255
+Fetched 3 from memory location 202
+Updated MBR to None and MBR"s data to 3
+Set $2 to 3
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Didn"t trigger flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+We are in PC =  7
+IBR has [6, 11]
+Updated IR to 6
+Updated MAR address to 11
+After clearing, contents of IBR are [0, 0]
+Updated PC to 8
+Opcode is 6
+Set PC to 11
+Jumping to 11
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 1 from memory location 252
+Updated MBR to None and MBR"s data to 1
+Updated AC value to 1 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 2 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 2
+Loaded AC value to MBR.
+Wrote 2 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 251
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value 3 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 2 from memory location 252
+Updated MBR to None and MBR"s data to 2
+Subtracted 2 from the accumulator. Now, the accumulator has value 1 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+Called Jump Plus
+Set PC to 3
+After clearing, contents of IBR are [0, 0]
+Jumping to 3
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 2 from memory location 252
+Updated MBR to None and MBR"s data to 2
+Added 2 to the accumulator. Now, the accumulator has value 202 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 202
+Loaded AC value to MBR.
+Wrote 202 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 202 from memory location 255
+Fetched 3 from memory location 202
+Updated MBR to None and MBR"s data to 3
+Set $1 to 3
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 203 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 203
+Loaded AC value to MBR.
+Wrote 203 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 203 from memory location 255
+Fetched 7 from memory location 203
+Updated MBR to None and MBR"s data to 7
+Set $2 to 7
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Didn"t trigger flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+We are in PC =  7
+IBR has [6, 11]
+Updated IR to 6
+Updated MAR address to 11
+After clearing, contents of IBR are [0, 0]
+Updated PC to 8
+Opcode is 6
+Set PC to 11
+Jumping to 11
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 2 from memory location 252
+Updated MBR to None and MBR"s data to 2
+Updated AC value to 2 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 3 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 3
+Loaded AC value to MBR.
+Wrote 3 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 251
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value 3 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 3 from memory location 252
+Updated MBR to None and MBR"s data to 3
+Subtracted 3 from the accumulator. Now, the accumulator has value 0 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+Called Jump Plus
+Set PC to 3
+After clearing, contents of IBR are [0, 0]
+Jumping to 3
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 3 from memory location 252
+Updated MBR to None and MBR"s data to 3
+Added 3 to the accumulator. Now, the accumulator has value 203 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 203
+Loaded AC value to MBR.
+Wrote 203 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 203 from memory location 255
+Fetched 7 from memory location 203
+Updated MBR to None and MBR"s data to 7
+Set $1 to 7
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 204 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 204
+Loaded AC value to MBR.
+Wrote 204 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 204 from memory location 255
+Fetched 4 from memory location 204
+Updated MBR to None and MBR"s data to 4
+Set $2 to 4
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Triggering flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+Called Jump Plus
+Set PC to 8
+After clearing, contents of IBR are [0, 0]
+Jumping to 8
+We are in PC =  8
+IBR has [0, 0]
+Updated MAR address to 8
+Fetched instructions [32, 255, 4, 255] from memory location 8
+Updated MBR to [32, 255, 4, 255] and MBR"s data to 0
+Updated IBR to [4, 255]
+Updated IR to 32
+Updated MAR address to 255
+Opcode is 32
+Set MBR data to 7
+Fetched 204 from memory location 255
+Wrote 7 to memory address 204
+We are in PC =  8
+IBR has [4, 255]
+Updated IR to 4
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 9
+Opcode is 4
+Calling Load
+Fetched 204 from memory location 255
+Updated MBR to None and MBR"s data to 204
+Updated AC value to 204 .
+We are in PC =  9
+IBR has [0, 0]
+Updated MAR address to 9
+Fetched instructions [2, 254, 3, 255] from memory location 9
+Updated MBR to [2, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 2
+Updated MAR address to 254
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value 203 in it
+We are in PC =  9
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 10
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 203
+Loaded AC value to MBR.
+Wrote 203 to memory address 255
+We are in PC =  10
+IBR has [0, 0]
+Updated MAR address to 10
+Fetched instructions [33, 255, 128, 0] from memory location 10
+Updated MBR to [33, 255, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 33
+Updated MAR address to 255
+Opcode is 33
+Set MBR data to 4
+Fetched 203 from memory location 255
+Wrote 4 to memory address 203
+We are in PC =  10
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 11
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 3 from memory location 252
+Updated MBR to None and MBR"s data to 3
+Updated AC value to 3 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 4 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 4
+Loaded AC value to MBR.
+Wrote 4 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 251
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value 3 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 4 from memory location 252
+Updated MBR to None and MBR"s data to 4
+Subtracted 4 from the accumulator. Now, the accumulator has value -1 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+We are in PC =  14
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 15
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  15
+IBR has [0, 0]
+Updated MAR address to 15
+Fetched instructions [4, 251, 1, 254] from memory location 15
+Updated MBR to [4, 251, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 251
+Opcode is 4
+Calling Load
+Fetched 1 from memory location 251
+Updated MBR to None and MBR"s data to 1
+Updated AC value to 1 .
+We are in PC =  15
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 16
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 2 in it.
+We are in PC =  16
+IBR has [0, 0]
+Updated MAR address to 16
+Fetched instructions [3, 251, 4, 253] from memory location 16
+Updated MBR to [3, 251, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 251
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 2
+Loaded AC value to MBR.
+Wrote 2 to memory address 251
+We are in PC =  16
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 17
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  17
+IBR has [0, 0]
+Updated MAR address to 17
+Fetched instructions [2, 251, 128, 0] from memory location 17
+Updated MBR to [2, 251, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 2 from memory location 251
+Updated MBR to None and MBR"s data to 2
+Subtracted 2 from the accumulator. Now, the accumulator has value 2 in it
+We are in PC =  17
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 18
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  18
+IBR has [0, 0]
+Updated MAR address to 18
+Fetched instructions [7, 2, 128, 0] from memory location 18
+Updated MBR to [7, 2, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 2
+Opcode is 7
+Called Jump Plus
+Set PC to 2
+After clearing, contents of IBR are [0, 0]
+Jumping to 2
+We are in PC =  2
+IBR has [0, 0]
+Updated MAR address to 2
+Fetched instructions [16, 252, 128, 0] from memory location 2
+Updated MBR to [16, 252, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 16
+Updated MAR address to 252
+Opcode is 16
+Setting Zero
+Set address 252 to zero
+Wrote 0 to memory address 252
+We are in PC =  2
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 3
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 0 from memory location 252
+Updated MBR to None and MBR"s data to 0
+Added 0 to the accumulator. Now, the accumulator has value 200 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 200
+Loaded AC value to MBR.
+Wrote 200 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 200 from memory location 255
+Fetched 1 from memory location 200
+Updated MBR to None and MBR"s data to 1
+Set $1 to 1
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 201 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 201
+Loaded AC value to MBR.
+Wrote 201 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 201 from memory location 255
+Fetched 2 from memory location 201
+Updated MBR to None and MBR"s data to 2
+Set $2 to 2
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Didn"t trigger flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+We are in PC =  7
+IBR has [6, 11]
+Updated IR to 6
+Updated MAR address to 11
+After clearing, contents of IBR are [0, 0]
+Updated PC to 8
+Opcode is 6
+Set PC to 11
+Jumping to 11
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 0 from memory location 252
+Updated MBR to None and MBR"s data to 0
+Updated AC value to 0 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 1 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 1
+Loaded AC value to MBR.
+Wrote 1 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 2 from memory location 251
+Updated MBR to None and MBR"s data to 2
+Subtracted 2 from the accumulator. Now, the accumulator has value 2 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 252
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value 1 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+Called Jump Plus
+Set PC to 3
+After clearing, contents of IBR are [0, 0]
+Jumping to 3
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 252
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 201 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 201
+Loaded AC value to MBR.
+Wrote 201 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 201 from memory location 255
+Fetched 2 from memory location 201
+Updated MBR to None and MBR"s data to 2
+Set $1 to 2
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 202 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 202
+Loaded AC value to MBR.
+Wrote 202 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 202 from memory location 255
+Fetched 3 from memory location 202
+Updated MBR to None and MBR"s data to 3
+Set $2 to 3
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Didn"t trigger flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+We are in PC =  7
+IBR has [6, 11]
+Updated IR to 6
+Updated MAR address to 11
+After clearing, contents of IBR are [0, 0]
+Updated PC to 8
+Opcode is 6
+Set PC to 11
+Jumping to 11
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 1 from memory location 252
+Updated MBR to None and MBR"s data to 1
+Updated AC value to 1 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 2 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 2
+Loaded AC value to MBR.
+Wrote 2 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 2 from memory location 251
+Updated MBR to None and MBR"s data to 2
+Subtracted 2 from the accumulator. Now, the accumulator has value 2 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 2 from memory location 252
+Updated MBR to None and MBR"s data to 2
+Subtracted 2 from the accumulator. Now, the accumulator has value 0 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+Called Jump Plus
+Set PC to 3
+After clearing, contents of IBR are [0, 0]
+Jumping to 3
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 2 from memory location 252
+Updated MBR to None and MBR"s data to 2
+Added 2 to the accumulator. Now, the accumulator has value 202 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 202
+Loaded AC value to MBR.
+Wrote 202 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 202 from memory location 255
+Fetched 3 from memory location 202
+Updated MBR to None and MBR"s data to 3
+Set $1 to 3
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 203 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 203
+Loaded AC value to MBR.
+Wrote 203 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 203 from memory location 255
+Fetched 4 from memory location 203
+Updated MBR to None and MBR"s data to 4
+Set $2 to 4
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Didn"t trigger flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+We are in PC =  7
+IBR has [6, 11]
+Updated IR to 6
+Updated MAR address to 11
+After clearing, contents of IBR are [0, 0]
+Updated PC to 8
+Opcode is 6
+Set PC to 11
+Jumping to 11
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 2 from memory location 252
+Updated MBR to None and MBR"s data to 2
+Updated AC value to 2 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 3 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 3
+Loaded AC value to MBR.
+Wrote 3 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 2 from memory location 251
+Updated MBR to None and MBR"s data to 2
+Subtracted 2 from the accumulator. Now, the accumulator has value 2 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 3 from memory location 252
+Updated MBR to None and MBR"s data to 3
+Subtracted 3 from the accumulator. Now, the accumulator has value -1 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+We are in PC =  14
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 15
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  15
+IBR has [0, 0]
+Updated MAR address to 15
+Fetched instructions [4, 251, 1, 254] from memory location 15
+Updated MBR to [4, 251, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 251
+Opcode is 4
+Calling Load
+Fetched 2 from memory location 251
+Updated MBR to None and MBR"s data to 2
+Updated AC value to 2 .
+We are in PC =  15
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 16
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 3 in it.
+We are in PC =  16
+IBR has [0, 0]
+Updated MAR address to 16
+Fetched instructions [3, 251, 4, 253] from memory location 16
+Updated MBR to [3, 251, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 251
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 3
+Loaded AC value to MBR.
+Wrote 3 to memory address 251
+We are in PC =  16
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 17
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  17
+IBR has [0, 0]
+Updated MAR address to 17
+Fetched instructions [2, 251, 128, 0] from memory location 17
+Updated MBR to [2, 251, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 3 from memory location 251
+Updated MBR to None and MBR"s data to 3
+Subtracted 3 from the accumulator. Now, the accumulator has value 1 in it
+We are in PC =  17
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 18
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  18
+IBR has [0, 0]
+Updated MAR address to 18
+Fetched instructions [7, 2, 128, 0] from memory location 18
+Updated MBR to [7, 2, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 2
+Opcode is 7
+Called Jump Plus
+Set PC to 2
+After clearing, contents of IBR are [0, 0]
+Jumping to 2
+We are in PC =  2
+IBR has [0, 0]
+Updated MAR address to 2
+Fetched instructions [16, 252, 128, 0] from memory location 2
+Updated MBR to [16, 252, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 16
+Updated MAR address to 252
+Opcode is 16
+Setting Zero
+Set address 252 to zero
+Wrote 0 to memory address 252
+We are in PC =  2
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 3
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 0 from memory location 252
+Updated MBR to None and MBR"s data to 0
+Added 0 to the accumulator. Now, the accumulator has value 200 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 200
+Loaded AC value to MBR.
+Wrote 200 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 200 from memory location 255
+Fetched 1 from memory location 200
+Updated MBR to None and MBR"s data to 1
+Set $1 to 1
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 201 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 201
+Loaded AC value to MBR.
+Wrote 201 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 201 from memory location 255
+Fetched 2 from memory location 201
+Updated MBR to None and MBR"s data to 2
+Set $2 to 2
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Didn"t trigger flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+We are in PC =  7
+IBR has [6, 11]
+Updated IR to 6
+Updated MAR address to 11
+After clearing, contents of IBR are [0, 0]
+Updated PC to 8
+Opcode is 6
+Set PC to 11
+Jumping to 11
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 0 from memory location 252
+Updated MBR to None and MBR"s data to 0
+Updated AC value to 0 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 1 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 1
+Loaded AC value to MBR.
+Wrote 1 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 3 from memory location 251
+Updated MBR to None and MBR"s data to 3
+Subtracted 3 from the accumulator. Now, the accumulator has value 1 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 252
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value 0 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+Called Jump Plus
+Set PC to 3
+After clearing, contents of IBR are [0, 0]
+Jumping to 3
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 252
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 201 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 201
+Loaded AC value to MBR.
+Wrote 201 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 201 from memory location 255
+Fetched 2 from memory location 201
+Updated MBR to None and MBR"s data to 2
+Set $1 to 2
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 202 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 202
+Loaded AC value to MBR.
+Wrote 202 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 202 from memory location 255
+Fetched 3 from memory location 202
+Updated MBR to None and MBR"s data to 3
+Set $2 to 3
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Didn"t trigger flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+We are in PC =  7
+IBR has [6, 11]
+Updated IR to 6
+Updated MAR address to 11
+After clearing, contents of IBR are [0, 0]
+Updated PC to 8
+Opcode is 6
+Set PC to 11
+Jumping to 11
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 1 from memory location 252
+Updated MBR to None and MBR"s data to 1
+Updated AC value to 1 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 2 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 2
+Loaded AC value to MBR.
+Wrote 2 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 3 from memory location 251
+Updated MBR to None and MBR"s data to 3
+Subtracted 3 from the accumulator. Now, the accumulator has value 1 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 2 from memory location 252
+Updated MBR to None and MBR"s data to 2
+Subtracted 2 from the accumulator. Now, the accumulator has value -1 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+We are in PC =  14
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 15
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  15
+IBR has [0, 0]
+Updated MAR address to 15
+Fetched instructions [4, 251, 1, 254] from memory location 15
+Updated MBR to [4, 251, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 251
+Opcode is 4
+Calling Load
+Fetched 3 from memory location 251
+Updated MBR to None and MBR"s data to 3
+Updated AC value to 3 .
+We are in PC =  15
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 16
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 4 in it.
+We are in PC =  16
+IBR has [0, 0]
+Updated MAR address to 16
+Fetched instructions [3, 251, 4, 253] from memory location 16
+Updated MBR to [3, 251, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 251
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 4
+Loaded AC value to MBR.
+Wrote 4 to memory address 251
+We are in PC =  16
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 17
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  17
+IBR has [0, 0]
+Updated MAR address to 17
+Fetched instructions [2, 251, 128, 0] from memory location 17
+Updated MBR to [2, 251, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 4 from memory location 251
+Updated MBR to None and MBR"s data to 4
+Subtracted 4 from the accumulator. Now, the accumulator has value 0 in it
+We are in PC =  17
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 18
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  18
+IBR has [0, 0]
+Updated MAR address to 18
+Fetched instructions [7, 2, 128, 0] from memory location 18
+Updated MBR to [7, 2, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 2
+Opcode is 7
+Called Jump Plus
+Set PC to 2
+After clearing, contents of IBR are [0, 0]
+Jumping to 2
+We are in PC =  2
+IBR has [0, 0]
+Updated MAR address to 2
+Fetched instructions [16, 252, 128, 0] from memory location 2
+Updated MBR to [16, 252, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 16
+Updated MAR address to 252
+Opcode is 16
+Setting Zero
+Set address 252 to zero
+Wrote 0 to memory address 252
+We are in PC =  2
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 3
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  3
+IBR has [0, 0]
+Updated MAR address to 3
+Fetched instructions [4, 250, 1, 252] from memory location 3
+Updated MBR to [4, 250, 1, 252] and MBR"s data to 0
+Updated IBR to [1, 252]
+Updated IR to 4
+Updated MAR address to 250
+Opcode is 4
+Calling Load
+Fetched 200 from memory location 250
+Updated MBR to None and MBR"s data to 200
+Updated AC value to 200 .
+We are in PC =  3
+IBR has [1, 252]
+Updated IR to 1
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 4
+Opcode is 1
+Calling Add
+Fetched 0 from memory location 252
+Updated MBR to None and MBR"s data to 0
+Added 0 to the accumulator. Now, the accumulator has value 200 in it.
+We are in PC =  4
+IBR has [0, 0]
+Updated MAR address to 4
+Fetched instructions [3, 255, 17, 255] from memory location 4
+Updated MBR to [3, 255, 17, 255] and MBR"s data to 0
+Updated IBR to [17, 255]
+Updated IR to 3
+Updated MAR address to 255
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 200
+Loaded AC value to MBR.
+Wrote 200 to memory address 255
+We are in PC =  4
+IBR has [17, 255]
+Updated IR to 17
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 5
+Opcode is 17
+Fetched 200 from memory location 255
+Fetched 1 from memory location 200
+Updated MBR to None and MBR"s data to 1
+Set $1 to 1
+We are in PC =  5
+IBR has [0, 0]
+Updated MAR address to 5
+Fetched instructions [1, 254, 3, 255] from memory location 5
+Updated MBR to [1, 254, 3, 255] and MBR"s data to 0
+Updated IBR to [3, 255]
+Updated IR to 1
+Updated MAR address to 254
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 201 in it.
+We are in PC =  5
+IBR has [3, 255]
+Updated IR to 3
+Updated MAR address to 255
+After clearing, contents of IBR are [0, 0]
+Updated PC to 6
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 201
+Loaded AC value to MBR.
+Wrote 201 to memory address 255
+We are in PC =  6
+IBR has [0, 0]
+Updated MAR address to 6
+Fetched instructions [18, 255, 64, 0] from memory location 6
+Updated MBR to [18, 255, 64, 0] and MBR"s data to 0
+Updated IBR to [64, 0]
+Updated IR to 18
+Updated MAR address to 255
+Opcode is 18
+Fetched 201 from memory location 255
+Fetched 2 from memory location 201
+Updated MBR to None and MBR"s data to 2
+Set $2 to 2
+We are in PC =  6
+IBR has [64, 0]
+Updated IR to 64
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 7
+Opcode is 64
+Checking $1 and $2, and triggering flag ig $1 > $2
+Didn"t trigger flag
+We are in PC =  7
+IBR has [0, 0]
+Updated MAR address to 7
+Fetched instructions [7, 8, 6, 11] from memory location 7
+Updated MBR to [7, 8, 6, 11] and MBR"s data to 0
+Updated IBR to [6, 11]
+Updated IR to 7
+Updated MAR address to 8
+Opcode is 7
+We are in PC =  7
+IBR has [6, 11]
+Updated IR to 6
+Updated MAR address to 11
+After clearing, contents of IBR are [0, 0]
+Updated PC to 8
+Opcode is 6
+Set PC to 11
+Jumping to 11
+We are in PC =  11
+IBR has [0, 0]
+Updated MAR address to 11
+Fetched instructions [4, 252, 1, 254] from memory location 11
+Updated MBR to [4, 252, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 252
+Opcode is 4
+Calling Load
+Fetched 0 from memory location 252
+Updated MBR to None and MBR"s data to 0
+Updated AC value to 0 .
+We are in PC =  11
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 12
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 1 in it.
+We are in PC =  12
+IBR has [0, 0]
+Updated MAR address to 12
+Fetched instructions [3, 252, 4, 253] from memory location 12
+Updated MBR to [3, 252, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 252
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 1
+Loaded AC value to MBR.
+Wrote 1 to memory address 252
+We are in PC =  12
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 13
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  13
+IBR has [0, 0]
+Updated MAR address to 13
+Fetched instructions [2, 251, 2, 252] from memory location 13
+Updated MBR to [2, 251, 2, 252] and MBR"s data to 0
+Updated IBR to [2, 252]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 4 from memory location 251
+Updated MBR to None and MBR"s data to 4
+Subtracted 4 from the accumulator. Now, the accumulator has value 0 in it
+We are in PC =  13
+IBR has [2, 252]
+Updated IR to 2
+Updated MAR address to 252
+After clearing, contents of IBR are [0, 0]
+Updated PC to 14
+Opcode is 2
+Calling Sub
+Fetched 1 from memory location 252
+Updated MBR to None and MBR"s data to 1
+Subtracted 1 from the accumulator. Now, the accumulator has value -1 in it
+We are in PC =  14
+IBR has [0, 0]
+Updated MAR address to 14
+Fetched instructions [7, 3, 128, 0] from memory location 14
+Updated MBR to [7, 3, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 3
+Opcode is 7
+We are in PC =  14
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 15
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  15
+IBR has [0, 0]
+Updated MAR address to 15
+Fetched instructions [4, 251, 1, 254] from memory location 15
+Updated MBR to [4, 251, 1, 254] and MBR"s data to 0
+Updated IBR to [1, 254]
+Updated IR to 4
+Updated MAR address to 251
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 251
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  15
+IBR has [1, 254]
+Updated IR to 1
+Updated MAR address to 254
+After clearing, contents of IBR are [0, 0]
+Updated PC to 16
+Opcode is 1
+Calling Add
+Fetched 1 from memory location 254
+Updated MBR to None and MBR"s data to 1
+Added 1 to the accumulator. Now, the accumulator has value 5 in it.
+We are in PC =  16
+IBR has [0, 0]
+Updated MAR address to 16
+Fetched instructions [3, 251, 4, 253] from memory location 16
+Updated MBR to [3, 251, 4, 253] and MBR"s data to 0
+Updated IBR to [4, 253]
+Updated IR to 3
+Updated MAR address to 251
+Opcode is 3
+Calling Store
+Updated MBR to None and MBR"s data to 5
+Loaded AC value to MBR.
+Wrote 5 to memory address 251
+We are in PC =  16
+IBR has [4, 253]
+Updated IR to 4
+Updated MAR address to 253
+After clearing, contents of IBR are [0, 0]
+Updated PC to 17
+Opcode is 4
+Calling Load
+Fetched 4 from memory location 253
+Updated MBR to None and MBR"s data to 4
+Updated AC value to 4 .
+We are in PC =  17
+IBR has [0, 0]
+Updated MAR address to 17
+Fetched instructions [2, 251, 128, 0] from memory location 17
+Updated MBR to [2, 251, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 2
+Updated MAR address to 251
+Opcode is 2
+Calling Sub
+Fetched 5 from memory location 251
+Updated MBR to None and MBR"s data to 5
+Subtracted 5 from the accumulator. Now, the accumulator has value -1 in it
+We are in PC =  17
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 18
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  18
+IBR has [0, 0]
+Updated MAR address to 18
+Fetched instructions [7, 2, 128, 0] from memory location 18
+Updated MBR to [7, 2, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 7
+Updated MAR address to 2
+Opcode is 7
+We are in PC =  18
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 19
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  19
+IBR has [0, 0]
+Updated MAR address to 19
+Fetched instructions [128, 0, 128, 0] from memory location 19
+Updated MBR to [128, 0, 128, 0] and MBR"s data to 0
+Updated IBR to [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+Opcode is 128
+Calling NOP
+Called NOP
+We are in PC =  19
+IBR has [128, 0]
+Updated IR to 128
+Updated MAR address to 0
+After clearing, contents of IBR are [0, 0]
+Updated PC to 20
+Opcode is 128
+Calling NOP
+Called NOP
+[0, 68983193600, 68984242176, 17442017532, 13152358655, 4561318143, 77577060352, 30073184267, 137706356991, 8856285439, 142001831936, 17444114686, 13149159677, 8853135612, 30068441088, 17443066110, 13148111101, 8853651456, 30067392512, 549756338176, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 4, 7, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 5, 1, 4, 1, 201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
