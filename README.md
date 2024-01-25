@@ -3,7 +3,7 @@ BY:
   Prakrititz Borah
   Unnath Chittimalla
   Chaitya Shah
-# Introduction {#introduction}
+# Introduction
 
 The IAS simulator, constructed in Python, meticulously adheres to the
 venerable Institute for Advanced Study (IAS) architecture conceptualized
@@ -37,7 +37,7 @@ of computing but also provides users with a hands-on experience,
 unraveling the inner workings of the IAS architecture and its enduring
 influence on the field of computer science.
 
-# Processor Implementation {#processor-implementation}
+# Processor Implementation
 
 The IAS Computer employs a modular design with distinct classes
 representing various components. The central processing unit (CPU)
@@ -46,7 +46,7 @@ key components such as the Accumulator (AC), Arithmetic Logic Unit
 (ALU), Memory Address Register (MAR), Memory Buffer Register (MBR), and
 others.
 
-## Control Unit (CTRL) {#control-unit-ctrl}
+## Control Unit (CTRL) 
 
 The Control Unit manages the execution flow based on the opcode of the
 current instruction. The `execute()` method decodes the opcode and
@@ -75,11 +75,11 @@ class CTRL:
     # ... other functions ...
 ```
 
-## Arithmetic Logic Unit (ALU) {#arithmetic-logic-unit-alu}
+## Arithmetic Logic Unit (ALU) 
 
 The ALU handles arithmetic operations, including addition, subtraction,
 loading, and storing. Additionally, it supports operations related to
-two auxiliary registers, $1 and$`<!-- -->`{=html}2. Here's a snippet
+two auxiliary registers, $1 and $2. Here's a snippet
 from the `ALU` class:
 
 ``` {.python language="Python" caption="ALU Class Implementation"}
@@ -106,7 +106,7 @@ class ALU:
     # ... other methods ...
 ```
 
-## Instruction Buffer Register (IBR) and Instruction Register (IR) {#instruction-buffer-register-ibr-and-instruction-register-ir}
+## Instruction Buffer Register (IBR) and Instruction Register (IR) 
 
 The `IBR` class stores the right instruction (ri) and right address (ra)
 obtained from the Memory Buffer Register (MBR). The `IR` class holds the
@@ -132,7 +132,7 @@ Computer. The complete implementation involves other classes such as
 `AC`, `MAR`, `MBR`, `MEM`, and `PC`, which collectively contribute to
 the functionality of the IAS Computer.
 
-## IAS Computer Execution Loop {#ias-computer-execution-loop}
+## IAS Computer Execution Loop
 
 The core execution loop of the IAS Computer is encapsulated within the
 `start()` method of the `IASComputer` class. This method initiates the
@@ -166,7 +166,7 @@ continues until the Program Counter (`PC`) reaches the specified number
 of lines.
 
 
-# Assembler {#assembler}
+# Assembler 
 
 The assembler plays a crucial role in translating human-readable
 assembly code into machine code understandable by the IAS computer. The
@@ -174,7 +174,7 @@ Python script `decode_code` accomplishes this task by reading an input
 text file, decoding each line, and mapping the instructions to their
 respective opcodes.
 
-## Assembler Script {#assembler-script}
+## Assembler Script 
 
 The following Python script exemplifies the functionality of the
 assembler. The `decode_code` function, when given the path to an
@@ -215,7 +215,7 @@ file you want to process. This command assumes that you are running the
 script using Python 3. Adjust the command accordingly if you are using a
 different version of Python.
 
-## Opcode Mapping {#opcode-mapping}
+## Opcode Mapping 
 
 The assembler uses a mapping table to associate assembly instructions
 with their corresponding opcodes. The following table provides an
@@ -251,7 +251,7 @@ script utilizes the `write_code` function to load machine code from
 `Machine.out` into memory. Additionally, specific memory locations are
 initialized to set the stage for program execution.
 
-## Memory Initialization {#memory-initialization}
+## Memory Initialization
 
 The memory initialization involves setting specific memory locations to
 predefined values. Here's a snippet from the Python script:
@@ -286,7 +286,7 @@ print('After loading code and memory initialization, ', computer.MEM.memory)
 This snippet sets specific memory locations to initial values, including
 array elements and variables used in the program.
 
-## Code Loading and Execution {#code-loading-and-execution}
+## Code Loading and Execution 
 
 The `write_code` function reads machine code from `Machine.out` and
 loads it into memory. The IAS computer is then initialized, and the
@@ -318,9 +318,9 @@ This command assumes that you are running the script using Python 3.
 Adjust the command accordingly if you are using a different version of
 Python.
 
-# Bubble Sort in IAS Assembly {#bubble-sort-in-ias-assembly}
+# Bubble Sort in IAS Assembly
 
-## Original C Code {#original-c-code .unnumbered}
+## Original C Code
 
 ``` {.objectivec language="C" caption="Original Bubble Sort in C"}
 #include <stdio.h>
@@ -391,12 +391,8 @@ additional considerations and instructions may be needed for a complete
 and efficient implementation. Adjustments may be necessary based on the
 actual memory organization and instruction set of the architecture.
 
-## IAS Machine Output {#ias-machine-output}
+## IAS Machine Output 
 
 The detailed process of each component of the IAS machine during the
 bubble sort execution is documented in the output text file.
 
-::: center
-    [language=, caption=]
-     .......... check the output.txt file to see the detailed inner execution...........
-:::
