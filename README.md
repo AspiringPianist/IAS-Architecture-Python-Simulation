@@ -1,7 +1,7 @@
 
 BY:
-  Prakrititz Borah
-  Unnath Chittimalla
+  Prakrititz Borah,
+  Unnath Chittimalla,
   Chaitya Shah
 # Introduction
 
